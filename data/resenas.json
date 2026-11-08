@@ -1,0 +1,774 @@
+[
+  {
+    "producto": {
+      "id": 2,
+      "nombre": "Mouse inalámbrico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Felipe Rojas",
+      "ciudad": "Chía"
+    },
+    "calificacion": 3,
+    "comentario": "Excelente calidad",
+    "fecha": "2026-09-13",
+    "etiquetas": [
+      "precio",
+      "garantia"
+    ]
+  },
+  {
+    "producto": {
+      "id": 3,
+      "nombre": "Teclado mecánico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Laura Gómez",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 4,
+    "comentario": "Llegó a tiempo",
+    "fecha": "2026-05-02",
+    "etiquetas": [
+      "soporte",
+      "calidad",
+      "envio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 10,
+      "nombre": "Disco SSD 1TB",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Juan Pablo Suárez",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 3,
+    "comentario": "Buen precio",
+    "fecha": "2026-06-25",
+    "etiquetas": [
+      "soporte",
+      "calidad"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Camila Torres",
+      "ciudad": "Soacha"
+    },
+    "calificacion": 2,
+    "comentario": "Excelente calidad",
+    "fecha": "2026-08-14",
+    "etiquetas": [
+      "calidad",
+      "envio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 2,
+      "nombre": "Mouse inalámbrico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Valentina Díaz",
+      "ciudad": "Facatativá"
+    },
+    "calificacion": 5,
+    "comentario": "Llegó a tiempo",
+    "fecha": "2026-04-08",
+    "etiquetas": [
+      "envio",
+      "soporte"
+    ]
+  },
+  {
+    "producto": {
+      "id": 5,
+      "nombre": "Silla ergonómica",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "Excelente calidad",
+    "fecha": "2026-02-25",
+    "etiquetas": [
+      "envio"
+    ],
+    "verificada": true,
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 5
+    }
+  },
+  {
+    "producto": {
+      "id": 10,
+      "nombre": "Disco SSD 1TB",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Santiago Moreno",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 4,
+    "comentario": "Podría mejorar el empaque",
+    "fecha": "2026-07-06",
+    "etiquetas": [
+      "soporte",
+      "envio",
+      "calidad"
+    ],
+    "verificada": true,
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 4
+    }
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Natalia Ríos",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 5,
+    "comentario": "Funciona bien",
+    "fecha": "2026-05-07",
+    "etiquetas": [
+      "precio",
+      "garantia",
+      "calidad"
+    ]
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Laura Gómez",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 3,
+    "comentario": "Buen precio",
+    "fecha": "2026-04-16",
+    "etiquetas": [
+      "envio",
+      "precio",
+      "calidad"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Santiago Moreno",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Excelente calidad",
+    "fecha": "2026-08-04",
+    "etiquetas": [
+      "calidad"
+    ],
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 2
+    }
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Santiago Moreno",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 4,
+    "comentario": "Funciona bien",
+    "fecha": "2026-04-19",
+    "etiquetas": [
+      "garantia"
+    ]
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Podría mejorar el empaque",
+    "fecha": "2026-07-20",
+    "etiquetas": [
+      "calidad"
+    ],
+    "verificada": true,
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 5
+    }
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "No era lo que esperaba",
+    "fecha": "2026-03-10",
+    "etiquetas": [
+      "envio"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Valentina Díaz",
+      "ciudad": "Facatativá"
+    },
+    "calificacion": 5,
+    "comentario": "Llegó a tiempo",
+    "fecha": "2026-07-11",
+    "etiquetas": [
+      "envio",
+      "calidad",
+      "precio"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Valentina Díaz",
+      "ciudad": "Facatativá"
+    },
+    "calificacion": 4,
+    "comentario": "Superó mis expectativas",
+    "fecha": "2026-08-13",
+    "etiquetas": [
+      "precio",
+      "envio",
+      "soporte"
+    ]
+  },
+  {
+    "producto": {
+      "id": 4,
+      "nombre": "Monitor 24 pulgadas",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Mateo Vargas",
+      "ciudad": "Chía"
+    },
+    "calificacion": 1,
+    "comentario": "Llegó a tiempo",
+    "fecha": "2026-07-24",
+    "etiquetas": [
+      "calidad",
+      "garantia",
+      "precio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 4,
+      "nombre": "Monitor 24 pulgadas",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "Buen precio",
+    "fecha": "2026-09-09",
+    "etiquetas": [
+      "precio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Mateo Vargas",
+      "ciudad": "Chía"
+    },
+    "calificacion": 5,
+    "comentario": "Funciona bien",
+    "fecha": "2026-06-29",
+    "etiquetas": [
+      "calidad",
+      "soporte"
+    ],
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 1
+    }
+  },
+  {
+    "producto": {
+      "id": 6,
+      "nombre": "Escritorio en L",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "No era lo que esperaba",
+    "fecha": "2026-02-10",
+    "etiquetas": [
+      "calidad",
+      "envio",
+      "soporte"
+    ]
+  },
+  {
+    "producto": {
+      "id": 3,
+      "nombre": "Teclado mecánico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Juan Pablo Suárez",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 5,
+    "comentario": "Excelente calidad",
+    "fecha": "2026-06-17",
+    "etiquetas": [
+      "soporte"
+    ],
+    "verificada": true,
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 4
+    }
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "Superó mis expectativas",
+    "fecha": "2026-08-27",
+    "etiquetas": [
+      "calidad",
+      "envio",
+      "garantia"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Valentina Díaz",
+      "ciudad": "Facatativá"
+    },
+    "calificacion": 4,
+    "comentario": "Funciona bien",
+    "fecha": "2026-07-02",
+    "etiquetas": [
+      "calidad",
+      "soporte",
+      "garantia"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 3,
+      "nombre": "Teclado mecánico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Funciona bien",
+    "fecha": "2026-07-12",
+    "etiquetas": [
+      "soporte"
+    ]
+  },
+  {
+    "producto": {
+      "id": 6,
+      "nombre": "Escritorio en L",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Superó mis expectativas",
+    "fecha": "2026-02-08",
+    "etiquetas": [
+      "precio"
+    ],
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 1
+    }
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Natalia Ríos",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 5,
+    "comentario": "Funciona bien",
+    "fecha": "2026-08-16",
+    "etiquetas": [
+      "precio"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Camila Torres",
+      "ciudad": "Soacha"
+    },
+    "calificacion": 4,
+    "comentario": "Llegó a tiempo",
+    "fecha": "2026-03-05",
+    "etiquetas": [
+      "precio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 2,
+      "nombre": "Mouse inalámbrico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Buen precio",
+    "fecha": "2026-07-16",
+    "etiquetas": [
+      "precio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Buen precio",
+    "fecha": "2026-07-25",
+    "etiquetas": [
+      "soporte",
+      "precio"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 2,
+      "nombre": "Mouse inalámbrico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Mateo Vargas",
+      "ciudad": "Chía"
+    },
+    "calificacion": 5,
+    "comentario": "Buen precio",
+    "fecha": "2026-08-12",
+    "etiquetas": [
+      "calidad",
+      "soporte",
+      "garantia"
+    ]
+  },
+  {
+    "producto": {
+      "id": 6,
+      "nombre": "Escritorio en L",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Juan Pablo Suárez",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 5,
+    "comentario": "Podría mejorar el empaque",
+    "fecha": "2026-05-15",
+    "etiquetas": [
+      "calidad",
+      "soporte"
+    ],
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 3
+    }
+  },
+  {
+    "producto": {
+      "id": 6,
+      "nombre": "Escritorio en L",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "Superó mis expectativas",
+    "fecha": "2026-05-09",
+    "etiquetas": [
+      "calidad"
+    ]
+  },
+  {
+    "producto": {
+      "id": 3,
+      "nombre": "Teclado mecánico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "No era lo que esperaba",
+    "fecha": "2026-03-03",
+    "etiquetas": [
+      "precio",
+      "garantia"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 5,
+      "nombre": "Silla ergonómica",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Felipe Rojas",
+      "ciudad": "Chía"
+    },
+    "calificacion": 4,
+    "comentario": "Llegó a tiempo",
+    "fecha": "2026-06-24",
+    "etiquetas": [
+      "precio"
+    ],
+    "verificada": true
+  },
+  {
+    "producto": {
+      "id": 7,
+      "nombre": "Lámpara LED",
+      "categoria": "Hogar"
+    },
+    "cliente": {
+      "nombre": "Daniela Castro",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 1,
+    "comentario": "Funciona bien",
+    "fecha": "2026-04-26",
+    "etiquetas": [
+      "garantia",
+      "precio",
+      "envio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 9,
+      "nombre": "Audífonos bluetooth",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 3,
+    "comentario": "Buen precio",
+    "fecha": "2026-07-16",
+    "etiquetas": [
+      "envio",
+      "garantia"
+    ],
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 5
+    }
+  },
+  {
+    "producto": {
+      "id": 5,
+      "nombre": "Silla ergonómica",
+      "categoria": "Mobiliario"
+    },
+    "cliente": {
+      "nombre": "Camila Torres",
+      "ciudad": "Soacha"
+    },
+    "calificacion": 4,
+    "comentario": "Funciona bien",
+    "fecha": "2026-07-07",
+    "etiquetas": [
+      "garantia",
+      "soporte"
+    ],
+    "verificada": true,
+    "respuesta_tienda": {
+      "texto": "Gracias por su comentario",
+      "dias_respuesta": 2
+    }
+  },
+  {
+    "producto": {
+      "id": 2,
+      "nombre": "Mouse inalámbrico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Natalia Ríos",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 5,
+    "comentario": "Buen precio",
+    "fecha": "2026-04-25",
+    "etiquetas": [
+      "calidad"
+    ]
+  },
+  {
+    "producto": {
+      "id": 10,
+      "nombre": "Disco SSD 1TB",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Natalia Ríos",
+      "ciudad": "Zipaquirá"
+    },
+    "calificacion": 4,
+    "comentario": "Superó mis expectativas",
+    "fecha": "2026-07-28",
+    "etiquetas": [
+      "soporte"
+    ]
+  },
+  {
+    "producto": {
+      "id": 3,
+      "nombre": "Teclado mecánico",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Santiago Moreno",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 5,
+    "comentario": "Podría mejorar el empaque",
+    "fecha": "2026-03-25",
+    "etiquetas": [
+      "calidad",
+      "precio",
+      "envio"
+    ]
+  },
+  {
+    "producto": {
+      "id": 10,
+      "nombre": "Disco SSD 1TB",
+      "categoria": "Tecnología"
+    },
+    "cliente": {
+      "nombre": "Juliana Herrera",
+      "ciudad": "Girardot"
+    },
+    "calificacion": 2,
+    "comentario": "Excelente calidad",
+    "fecha": "2026-04-11",
+    "etiquetas": [
+      "envio",
+      "calidad"
+    ]
+  }
+]

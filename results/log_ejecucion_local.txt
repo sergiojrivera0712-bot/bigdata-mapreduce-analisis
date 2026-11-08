@@ -1,0 +1,8 @@
+[0] Preprocesamiento JSON -> JSON Lines
+40 reseñas escritas en ./data/resenas.jsonl
+[1] Ingresos por categoría
+[2] Join ventas + detalle_venta (+ clientes por caché)
+[3] Agregados encadenados sobre la salida del Job 2
+[4] Calificación por producto
+[5] Frecuencia de etiquetas
+Listo. Resultados en ./results

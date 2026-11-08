@@ -1,0 +1,11 @@
+id_producto,nombre,categoria,precio,stock
+1,Portátil 14 pulgadas,Tecnología,2450000,48
+2,Mouse inalámbrico,Tecnología,65000,25
+3,Teclado mecánico,Tecnología,280000,18
+4,Monitor 24 pulgadas,Tecnología,720000,30
+5,Silla ergonómica,Mobiliario,890000,21
+6,Escritorio en L,Mobiliario,640000,27
+7,Lámpara LED,Hogar,95000,27
+8,Cafetera,Hogar,210000,56
+9,Audífonos bluetooth,Tecnología,185000,29
+10,Disco SSD 1TB,Tecnología,360000,52
